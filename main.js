@@ -9,5 +9,5 @@ if (man == true) {
 } else if (woman ==  true) {
     return "is a woman";
 } else {
-    return "hasnt picked"
+    return "hasnt picked";
 }
